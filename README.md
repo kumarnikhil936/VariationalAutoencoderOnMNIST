@@ -1,4 +1,4 @@
-# VariationalAutoencoderOnMNIST
+
 Complete implementation of a Variational Autoencoder in Tensorflow and understanding the behavior using MNIST dataset.
 
 The idea of this mini-project is to have some hands-on and gain some familiarity with the generative modeling techniques. VAE will try to understand and learn the underlying distributions from the data, and once successful, it will be then able to generate data itself. 
